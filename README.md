@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ramyaa13
+- 👋 Hi, I’m Ramya Mahadevan
 - 👀 I’m interested in XR and 3D Game Development
 - 🌱 I’m currently learning Augmented and Virtual Reality Applications
 - 💞️ I’m looking to collaborate on XR Apps, Unity and Unreal Dev
