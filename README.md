@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ramya Mahadevan</h1>
+<h1 align="center">Hi 👋, I'm Rajalakshmi Mahadevan</h1>
 <h3 align="center">Hi! I'm XR and Game Developer, from Coimbatore, India. My main area of expertise is 3D Engineering focused on Creative Development and Interactive Immersive experiences. Throughout 3 years exploring my passion for technology and communication, I had the pleasure to attend to several personal, professional, and corporate endeavors which brought me to my current acquaintance in my career. I've fantasized about virtual worlds and video games in my college days. since then, I love creating unique user experiences through cutting-edge technology with all my heart! I can't describe how thankful I am for being part of this wonderful collective human creation through technology in such amazing times of innovation. I love creating cool shit, and I feel privileged for having the chance to learn something new every day.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramyaa13&label=Profile%20views&color=0e75b6&style=flat" alt="ramyaa13" /> </p>
