@@ -46,19 +46,19 @@ My vision is to **bridge AI and XR**, developing solutions that bring intelligen
 ---  
 
 ## 📊 GitHub Stats & Streaks  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajalakshmi-mahadevan&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajalakshmi-mahadevan&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajalakshmi-mahadevan&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramyaa13&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramyaa13&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ramyaa13&theme=tokyonight)  
 
-![Profile Views](https://komarev.com/ghpvc/?username=rajalakshmi-mahadevan&color=blue&style=for-the-badge)  
+![Profile Views](https://komarev.com/ghpvc/?username=ramyaa13&color=blue&style=for-the-badge)  
 
 ---  
 
 ## 🔗 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajalakshmi-mahadevan)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajalakshmi-mahadevan-0b5898159/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/RamyaMahadevan_)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_doodlirn._)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@doodlirn)  
 
 ---  
 
