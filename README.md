@@ -1,42 +1,69 @@
 <h1 align="center">Hi 👋, I'm Rajalakshmi Mahadevan</h1>
-<h3 align="center">Hi! I'm XR and Game Developer, from Coimbatore, India. My main area of expertise is 3D Engineering focused on Creative Development and Interactive Immersive experiences. Throughout 3 years exploring my passion for technology and communication, I had the pleasure to attend to several personal, professional, and corporate endeavors which brought me to my current acquaintance in my career. I've fantasized about virtual worlds and video games in my college days. since then, I love creating unique user experiences through cutting-edge technology with all my heart! I can't describe how thankful I am for being part of this wonderful collective human creation through technology in such amazing times of innovation. I love creating cool shit, and I feel privileged for having the chance to learn something new every day.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramyaa13&label=Profile%20views&color=0e75b6&style=flat" alt="ramyaa13" /> </p>
+## 🌟 About Me  
+I am an **XR Developer and AI Enthusiast** passionate about creating intelligent, immersive experiences where **extended reality meets generative AI**.  
+With hands-on expertise in **Unity, AR/VR development, and interactive simulations**, I love building experiences that engage, educate, and inspire.  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramyaa13" alt="ramyaa13" /></a> </p>
+Currently, I’m exploring **Generative AI, Large Language Models (LLMs), and AI-powered applications**, focusing on how these technologies can transform the way people interact with digital worlds.  
+My vision is to **bridge AI and XR**, developing solutions that bring intelligence, creativity, and innovation to immersive platforms.  
 
-- 🔭 I’m currently working on **NFT Based Unreal Projects**
+---  
 
-- 🌱 I’m currently learning **Game Design Patterns, Advanced Unreal and Unity engine Topics**
+## 💡 Skills  
 
-- 👨‍💻 All of my projects are available at [https://github.com/ramyaa13](https://github.com/ramyaa13)
+### 🔹 XR & Unity Development  
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)  
+![AR/VR](https://img.shields.io/badge/AR%2FVR-0A66C2?style=for-the-badge&logo=oculus&logoColor=white)  
+![OpenXR](https://img.shields.io/badge/OpenXR-FF4B4B?style=for-the-badge&logo=virtualbox&logoColor=white)  
 
-- 📝 I regularly write articles on [https://sharedsecretsbyramya.blogspot.com/](https://sharedsecretsbyramya.blogspot.com/)
+### 🔹 Artificial Intelligence & GenAI  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
+![RAG](https://img.shields.io/badge/RAG-FF8800?style=for-the-badge&logo=fastapi&logoColor=white)  
 
-- 💬 Ask me about **Augmented / Virtual Reality, Game Development**
+### 🔹 Software & Tools  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)  
+![Gradio](https://img.shields.io/badge/Gradio-FFCC00?style=for-the-badge&logo=googlechrome&logoColor=black)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
 
-- 📫 How to reach me **ramyaa1304@gmail.com**
+---  
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rajalakshmi-mahadevan-0b5898159/](https://www.linkedin.com/in/rajalakshmi-mahadevan-0b5898159/)
+## 📚 Currently Learning  
+- Advanced **Generative AI & LLM Engineering** (LangChain, RAG, AI Agents)  
+- **AI + XR Fusion Projects** for immersive learning & enterprise applications  
+- **Full-Stack Development** to integrate AI-powered solutions with XR platforms  
 
-- ⚡ Fun fact **Journey of my Life [Biology -> IT Engineer -> Game Developer] LOL**
+---  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ramyamahadevan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramyamahadevan_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rajalakshmi-mahadevan-0b5898159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajalakshmi-mahadevan-0b5898159" height="30" width="40" /></a>
-<a href="https://instagram.com/_doodlirn._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/_doodlirn._?igshid=ymmymta2m2y=" height="30" width="40" /></a>
-<a href="https://discord.gg/Ramya_Mahadevan#7620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ramya_Mahadevan#7620" height="30" width="40" /></a>
-</p>
+## 🚀 Goals  
+- Build AI-driven XR applications for training, learning & entertainment  
+- Contribute to open-source projects in **AI & XR**  
+- Collaborate with innovators at companies like **Google, Meta, Netflix, Deloitte**  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramyaa13&show_icons=true&locale=en&layout=compact" alt="ramyaa13" /></p>
+## 📊 GitHub Stats & Streaks  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajalakshmi-mahadevan&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajalakshmi-mahadevan&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajalakshmi-mahadevan&theme=tokyonight)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramyaa13&show_icons=true&locale=en" alt="ramyaa13" /></p>
+![Profile Views](https://komarev.com/ghpvc/?username=rajalakshmi-mahadevan&color=blue&style=for-the-badge)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramyaa13&" alt="ramyaa13" /></p>
+---  
+
+## 🔗 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajalakshmi-mahadevan)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)  
+
+---  
+
+🌐 Let’s connect and build the future of **AI + XR** together!  
+
 
 <!---
 ramyaa13/ramyaa13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
