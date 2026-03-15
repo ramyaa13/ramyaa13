@@ -106,16 +106,13 @@ print(me.life_motto())
 ---
 
 ## 📊 GitHub Analytics
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramyaa13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0d1117"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramyaa13&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramyaa13&theme=tokyonight&hide_border=true&background=0d1117&border_radius=12" />
+  <img src="https://streak-stats.demolab.com/?user=ramyaa13&theme=tokyonight&hide_border=true&background=0d1117&border_radius=12" />
 </div>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramyaa13&theme=tokyo-night&hide_border=true&bg_color=0d1117&custom_title=Contribution%20Graph" width="95%"/>
 </div>
