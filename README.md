@@ -80,7 +80,7 @@ print(me.life_motto())
 ## 🗺️ My Journey: AI × XR Roadmap
 
 ```
-2024 ──────────────────────────────────────────────────────────────► 2025+
+2019 ──────────────────────────────────────────────────────────────► 2026+
 
   [Unity & AR/VR]──►[OpenXR Simulations]──►[LLM Engineering]──►[AI+XR Fusion]
         │                    │                     │                   │
